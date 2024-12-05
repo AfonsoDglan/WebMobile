@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-08-20T06:09:04.063Z"
+    },
+    {
+      "id": "2",
+      "description": "Lanche",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 35,
+      "createdAt": "2024-08-22T06:09:04.063Z"
+    },
+    {
+      "id": "9ad0",
+      "description": "freelancer de site",
+      "price": 2500,
+      "category": "programacao",
+      "type": "income",
+      "createdAt": "2024-08-21T07:10:12.842Z"
+    }
+  ]
+}
